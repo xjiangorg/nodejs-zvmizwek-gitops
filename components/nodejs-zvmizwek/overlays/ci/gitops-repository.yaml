@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: nodejs-zvmizwek-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/nodejs-zvmizwek-gitops
